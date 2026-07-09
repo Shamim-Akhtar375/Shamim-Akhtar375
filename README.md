@@ -1,7 +1,7 @@
 # 💫 About Me:
 # 👋 Hi, I'm Shamim Akhtar  
 
-🎓 B.Tech CSE (Hons.) – Data Science & Analytics  
+🎓 B.Tech CSE 
 💡 Passionate about Data Science, Machine Learning & Software Development  
 🚀 Building real-world projects that blend data, AI, and scalable systems  
 
